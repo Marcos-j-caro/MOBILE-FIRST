@@ -35,7 +35,7 @@ nav ul li a {
 
 /* Estilos do conteúdo principal */
 main {
-    padding: 20px;
+    padding: 100px;
 }
 
 /* Estilos do rodapé */
@@ -44,4 +44,13 @@ footer {
     padding: 10px 0;
     background-color: #333;
     color: #ffffff;
+}
+
+div p {
+    text-align: center;
+    font-size: 50px;
+}
+
+div p1 {
+    font-size: 25px;
 }
